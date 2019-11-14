@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{3825FF3A-B39B-41D5-95B5-B6FDA2922337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.Web", "Dapper.Web\Dapper.Web.csproj", "{1E2631C5-88BC-468B-B26D-22A580E8088A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2631C5-88BC-468B-B26D-22A580E8088A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2631C5-88BC-468B-B26D-22A580E8088A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2631C5-88BC-468B-B26D-22A580E8088A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2631C5-88BC-468B-B26D-22A580E8088A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E2631C5-88BC-468B-B26D-22A580E8088A} = {3825FF3A-B39B-41D5-95B5-B6FDA2922337}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C458C6A7-AF59-412E-8E73-7E4182DD3901}
+	EndGlobalSection
+EndGlobal
